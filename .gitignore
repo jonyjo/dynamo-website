@@ -1,0 +1,16 @@
+# Node.js (backend)
+backend/node_modules/
+
+
+# React (frontend)
+frontend/node_modules/
+frontend/build/
+
+# System & IDE files
+.DS_Store
+Thumbs.db
+*.log
+
+# Optional OS-specific
+*.swp
+*.swo
